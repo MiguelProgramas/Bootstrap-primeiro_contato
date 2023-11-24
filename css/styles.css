@@ -28,6 +28,12 @@
   }
 }
 
+@media (max-width: 768px) {
+  #cat {
+    width:50%;
+  }
+}
+
 .b-example-divider {
   width: 100%;
   height: 3rem;
